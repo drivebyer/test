@@ -3,7 +3,7 @@ package bar
 import (
 )
 
-var v = 1
+var V = 1
 
 func f()  {
 

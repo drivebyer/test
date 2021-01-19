@@ -1,3 +1,3 @@
 package foo
 
-var v = 2
+var V = 2
